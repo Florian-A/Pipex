@@ -1,0 +1,6 @@
+*.o
+*.a
+.DS_Store
+*.out
+test.c
+.vscode

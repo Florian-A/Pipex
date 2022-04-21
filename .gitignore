@@ -1,0 +1,9 @@
+*.o
+*.a
+.DS_Store
+*.out
+.vscode
+infile
+outfile
+pipex
+pipex_bonus
