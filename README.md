@@ -1,4 +1,4 @@
-# Pipex
+<h1 align="center">Pipex</h1>
 
 Quatrième projet de [42](https://42.fr/) dont le but est de recréer un système similaire aux pipes de Bash.
 
